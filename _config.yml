@@ -19,7 +19,7 @@ title: Blog do Careca do RPG # the main title
 tagline: Bora falar de RPG de mesa? # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Blog para compartilhar conteúdo técnico de RPG
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -27,9 +27,6 @@ url: "https://carecadorpg.github.io/blog"
 
 github:
   username: coppolaop # change to your github username
-
-tiktok:
-  username: carecadorpg # change to your twitter username
 
 social:
   # Change to your full name.
@@ -92,7 +89,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/67562396?s=200&v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
