@@ -10,15 +10,15 @@ baseurl: ""
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: pt-BR
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Africa/Cairo
+timezone: America/Sao_Paulo
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Blog do Careca do RPG # the main title
+title: Careca do RPG # the main title
 
 tagline: Marcos Gonçalves # it will display as the sub-title
 
@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://carecadorpg.github.io"
 
 github:
-  username: ahmedtremo # change to your github username
+  username: coppolaop # change to your github username
 
 twitter:
   username: tremooo # change to your twitter username
