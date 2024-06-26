@@ -7,7 +7,10 @@ order: 4
 Olá! Eu me chamo Marcos Gonçalves. Criei este blog para falar sobre RPG de mesa.
 Jogo oficialmente desde 2014, não muito tempo depois de começar a jogar eu já estava mestrando minha primeira campanha.
 De lá pra cá já foram diversas aventuras, experimentações de sistemas, debates, eventos, aquisições de livros/materiais, dentre diversas outras coisas.
-Entendi que era hora de compartilhar um pouco mais sobre.
+Entendi que era hora de compartilhar um pouco mais sobre. Comecei com um [canal no Tiktok](https://www.tiktok.com/@carecadorpg) e agora resolvi dar mais um passo adiante com este blog.
+
+![marcos](/assets/img/personal/marcos.jpg){: w="1695" h="3067" }
+_Esse sou eu. Um homem latino, careca, de barba, que usa óculos e que nesta foto, em específico, está utilizando uma camisa do Game of Thrones._
 
 ### Quem sou eu
 Sou nascido e criado na cidade do Rio de Janeiro, formado em Ciência da Computação, atuo profissionalmente como programador.
